@@ -15,7 +15,7 @@ print(multiplicaArr(arr1,2))
 
 
 
-
+#Outra forma que pensei em fazer:
 # def multiplicaArr(arr,fator):
 #     arr_2 = np.array([], dtype= int)
 #     for i in range(len(arr)):
