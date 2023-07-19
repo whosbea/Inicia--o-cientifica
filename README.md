@@ -29,7 +29,7 @@ _[Questão 8](https://github.com/whosbea/Pre-projeto-de-Iniciacao-Cientifica---E
 ‘Nome’, ‘Idade’, ‘Sexo’, ‘Medicamento’._
 
 _[Questão 9](https://github.com/whosbea/Pre-projeto-de-Iniciacao-Cientifica---Etapa-2-Teste-Python/blob/main/resolucoes/q9.py): Preencha o dataframe df com os seguintes dados:_
-```sh
+```python
 data = {
 'Nome': ['Ana', 'Bartolomeu', 'Caio', 'Dora'],
 'Idade': [28, 32, 25, 60],
